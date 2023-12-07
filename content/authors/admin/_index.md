@@ -25,64 +25,46 @@ awards:
     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
   title: Object-Oriented Programming in R
   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+
 education:
-- area: PhD Artificial Intelligence
-  button:
-    text: Read Thesis
-    url: https://example.com
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Stanford University
+- area: BSc Information Systems (Major in Smart-City Management and Technology)
+#  button:
+#   text: Read Thesis
+#    url: https://example.com
+  date_end: 
+  date_start: "2022-08-01"
+  institution: Singapore Management University
   summary: |
-    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-- area: MEng Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
+    Major in Smart-City Mangement and technology
+  
+- area: General Certificate of Education Advanced Level
+  date_end: "2021-12-31"
+  date_start: "2020-01-01"
+  institution: Catholic Junior College
   summary: |
-    GPA: 3.8/4.0
+    
+    H2 Mathematics, H2 Biology, H2 Chemistry, H1 Economics, H1 General Paper, H1 Project Work, H1 Chinese
 
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-- area: BSc Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
-  summary: |
-    GPA: 3.4/4.0
+#first_name: Anthea Chua
+#languages:
+#- name: English
+#  percent: 100
+#- name: Chinese
+#  percent: 75
+#- name: Portuguese
+#  percent: 25
+#last_name: Chien
+name_pronunciation: Anthea Chua
 
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-first_name: Shiung Wu
-languages:
-- name: English
-  percent: 100
-- name: Chinese
-  percent: 75
-- name: Portuguese
-  percent: 25
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
-organizations:
-- name: GenCoin
-  url: https://www.example.com/
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:your-email@example.com
-- icon: x
-  url: https://twitter.com/GetResearchDev
+  url: mailto:antheaa.chua@gmail.com
 - icon: github
-  url: https://github.com/gcushen
+  url: https://github.com/ac080
 - icon: linkedin
-  url: https://www.linkedin.com/
-- icon: instagram
-  url: https://www.instagram.com/
-role: Director of Cloud Infrastructure
+  url: https://www.linkedin.com/in/anthea-chua-xy
+role: Data Analyst Engineer
 skills:
 - items:
   - description: ""
@@ -117,7 +99,6 @@ skills:
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
 work:
 - company_logo: ""
   company_name: GenCoin

@@ -5,7 +5,7 @@ sections:
   content:
     button:
       text: Download Résumé
-      url: uploads/resume.pdf
+      url: /resume/Anthea_Chua_Resume.pdf
     username: admin
   design:
     banner:
