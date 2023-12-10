@@ -1,22 +1,20 @@
 ---
 awards:
 - awarder: Coursera
-  date: "2023-07-01"
+  date: "2023-07-17"
   icon: coursera
   summary: |
-    I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  title: Google Data Analytics Professional Certificate
-  url: https://www.coursera.org/learn/neural-networks-deep-learning
-- awarder: HeiCoders
+    This course helped to equip me with essential skills for entry-level roles in data analytics. By the end, I gained proficiency in utilizing tools like spreadsheets, SQL, Tableau, and R. Through hands-on and practice-based assessments, I learned how to apply Exploratory Data Analysis methods, enabling me to prepare, process, analyze, and share data effectively for informed decision-making.
+  title: Google Data Analytics
+  url: https://www.coursera.org/account/accomplishments/specialization/certificate/6H5BRWFJRR8X
+- awarder: Heicoders Academy
   date: "2022-09-01"
-  icon: edx
-  summary: |
-    Learned:
-    - Synthesize your own blockchain solutions
-    - Gain an in-depth understanding of the specific mechanics of Bitcoin
-    - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  title: Python Programming and Data Visualisation Certificate
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  icon: ""
+  summary: 
+    I was able to gain a strong foundation in Python programming and learned how to harness actionable insights from real world data. Using real world data, I learned how to built a tabular, graphical and geospatial visualisations using Python programming.
+    
+  title: Python Programming and Data Visualisation
+  url: https://cert.heicodersacademy.com/nLqO9COgDBnSzUpZ
 
 education:
 - area: BSc Information Systems
@@ -66,58 +64,30 @@ profiles:
   url: https://www.linkedin.com/in/anthea-chua-xy
 role: Data Analyst Engineer
 title: Anthea Chua
-skills:
-- items:
-  - description: ""
-    icon: code-bracket
-    name: Python
-    percent: 80
-  - description: ""
-    icon: chart-bar
-    name: Data Science
-    percent: 100
-  - description: ""
-    icon: circle-stack
-    name: SQL
-    percent: 40
-  name: Technical Skills
-- color: '#eeac02'
-  color_border: '#f0bf23'
-  items:
-  - description: ""
-    icon: person-simple-walk
-    name: Hiking
-    percent: 60
-  - description: ""
-    icon: cat
-    name: Cats
-    percent: 100
-  - description: ""
-    icon: camera
-    name: Photography
-    percent: 80
-  name: Hobbies
+
+# place for SKILLS code
+
 status:
   icon: ☕️
 superuser: true
 work:
 - company_logo: ""
-  company_name: GenCoin
-  company_url: ""
+  company_name: Willowmore
+  company_url: "https://www.willowmore.com.sg/"
   date_end: ""
-  date_start: "2021-01-01"
-  position: Director of Cloud Infrastructure
+  date_start: "2023-08-28"
+  position: Data Analyst Engineer
   summary: |-
     Responsibilities include:
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 - company_logo: ""
-  company_name: X
-  company_url: ""
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  position: Backend Software Engineer
+  company_name: Willowmore
+  company_url: "https://www.willowmore.com.sg/"
+  date_end: "2023-07-31"
+  date_start: "2023-05-15"
+  position: Data Analyst Intern
   summary: |
     Responsibilities include:
     - Migrated infrastructure to a new data center
