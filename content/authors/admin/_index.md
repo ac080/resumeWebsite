@@ -1,33 +1,25 @@
 ---
 awards:
 - awarder: Coursera
-  date: "2023-11-25"
+  date: "2023-07-01"
   icon: coursera
   summary: |
     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  title: Neural Networks and Deep Learning
+  title: Google Data Analytics Professional Certificate
   url: https://www.coursera.org/learn/neural-networks-deep-learning
-- awarder: edX
-  date: "2023-07-01"
+- awarder: HeiCoders
+  date: "2022-09-01"
   icon: edx
   summary: |
     Learned:
     - Synthesize your own blockchain solutions
     - Gain an in-depth understanding of the specific mechanics of Bitcoin
     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  title: Blockchain Fundamentals
+  title: Python Programming and Data Visualisation Certificate
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- awarder: datacamp
-  certificate_url: https://www.datacamp.com
-  date: "2023-01-21"
-  icon: datacamp
-  summary: |
-    Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-  title: Object-Oriented Programming in R
-  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 
 education:
-- area: BSc Information Systems (Major in Smart-City Management and Technology)
+- area: BSc Information Systems
 #  button:
 #   text: Read Thesis
 #    url: https://example.com
@@ -35,7 +27,15 @@ education:
   date_start: "2022-08-01"
   institution: Singapore Management University
   summary: |
-    Major in Smart-City Mangement and technology
+    Majoring in Smart-City Management and technology with a second major in Financial Technology
+    
+    CCA:
+    - SMU Ellipsis<br>
+       Ellipsis is the students’ representative body of the School of Computing and Information Systems (SCIS) at SMU<br><br>
+        Role: Public Relations Director (Dec 2023 - Present)<br>
+        Maintain relations with long term sponsors and the brand image of Ellipsis. Lias with companies to ensure 
+        Role: Welfare Executive (Dec 2022 - Nov 2023)<br>
+      
   
 - area: General Certificate of Education Advanced Level
   date_end: "2021-12-31"
@@ -54,7 +54,7 @@ education:
 #- name: Portuguese
 #  percent: 25
 #last_name: Chien
-name_pronunciation: Anthea Chua
+#name_pronunciation: Anthea Chua
 
 profiles:
 - icon: at-symbol
@@ -65,6 +65,7 @@ profiles:
 - icon: linkedin
   url: https://www.linkedin.com/in/anthea-chua-xy
 role: Data Analyst Engineer
+title: Anthea Chua
 skills:
 - items:
   - description: ""
@@ -124,4 +125,7 @@ work:
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently a Bachelor of Science in Information System student with a major in Smart-City Management and Technology, and a second major in Financial Technology. 
+
+I have gained valuable experience in various fields such as healthcare, education, and community outreach. The exposure I have has helped me develop strong interpersonal and communication skills, allowing me to effectively collaborate with the people around me. My involvement in co-curricular activities and volunteer work, such as SMU Ellipsis and SSU Project Naksu 2.0, has honed my leadership and teamwork abilities as I managed teams and organized welfare drives for hundreds of students. Additionally, having a role as a Public Relations Director helped me better communicate with stakeholders. I am eager to contribute to the growth and success of a dynamic organisation where I can make a meaningful impact.
+
