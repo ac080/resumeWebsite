@@ -24,7 +24,7 @@ sections:
 #    username: admin
 - block: awards
   content:
-    title: Awards
+    title: Certificates
     username: admin
 #- block: languages
 #  content:

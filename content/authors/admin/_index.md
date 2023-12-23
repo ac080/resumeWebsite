@@ -31,8 +31,14 @@ education:
     - SMU Ellipsis<br>
        Ellipsis is the students’ representative body of the School of Computing and Information Systems (SCIS) at SMU<br><br>
         Role: Public Relations Director (Dec 2023 - Present)<br>
-        Maintain relations with long term sponsors and the brand image of Ellipsis. Lias with companies to ensure 
-        Role: Welfare Executive (Dec 2022 - Nov 2023)<br>
+        Maintain relations with long term sponsors and the brand image of Ellipsis.<br> 
+        
+        <br>Role: Welfare Executive (Dec 2022 - Nov 2023)<br>
+        
+        I had to source for external vendors to sponsor or collaborate with us. Additionally, I was in charged of planning the Finals Welfare Drive. During my time in this role, I worked in a team of 5 to manage 43 Exco members and execute 4 welfare drives for a total of 1500 students. Moreover, I successfully sourced and secured 4 sponsorships.<br>
+    
+    - SMU Muay Thai (Aug 2022 - April 2023)<br>
+    Member<br>
       
   
 - area: General Certificate of Education Advanced Level
@@ -73,29 +79,38 @@ superuser: true
 work:
 - company_logo: ""
   company_name: Willowmore
-  company_url: "https://www.willowmore.com.sg/"
   date_end: ""
   date_start: "2023-08-28"
   position: Data Analyst Engineer
   summary: |-
     Responsibilities include:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - In-charged of extracting and cleaning raw data via binary string conversion through SQL
+    - Performed Exploratory Data Analysis, data cleaning and data transformation through the use of Python (Pandas)
+    - Generated a report based on the analysis. The insights from my analysis played a pivotal role in revealing the underlying issues of the product, guiding the company in strategic decision-making and facilitating targeted improvements
+    - I serve as the primary point of contact for inquiries or requests pertaining to data insights, ensuring a prompt and comprehensive response to meet the team's informational needs
+  
 - company_logo: ""
   company_name: Willowmore
-  company_url: "https://www.willowmore.com.sg/"
   date_end: "2023-07-31"
   date_start: "2023-05-15"
   position: Data Analyst Intern
   summary: |
-    Responsibilities include:
-    - Migrated infrastructure to a new data center
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - Accepted conversion to full time role for outstanding performance<br>
+    - Responsibilities include:
+      - In-charged of utilising Elasticsearch/Opensearch to create interactive data visualizations, playing a key role in facilitating the company's informed decision-making process
+
+
+- company_logo: ""
+  company_name: Singapore Management University
+  date_end: ""
+  date_start: "2023-03-01"
+  position: Research Assistant
+  summary: |
+    Project: Cooling Singapore 2.0<br>
+    <br>I conducted on-site surveys to gauge public sentiment regarding current thermal comfort levels. The primary objective was to gain insights into how individuals perceive the prevailing weather conditions and understand the potential impact of their environment on their overall comfort.<br>
+    <br>Through these surveys, I played a pivotal role in collecting valuable data that informed our understanding of public attitudes towards their thermal comfort, contributing to strategic decision-making processes to become a climate resilient city.
 ---
 
-I am currently a Bachelor of Science in Information System student with a major in Smart-City Management and Technology, and a second major in Financial Technology. 
+I am currently a Bachelor of Science in Information System student with a major in Smart-City Management and Technology, and a second major in Financial Technology.
 
 I have gained valuable experience in various fields such as healthcare, education, and community outreach. The exposure I have has helped me develop strong interpersonal and communication skills, allowing me to effectively collaborate with the people around me. My involvement in co-curricular activities and volunteer work, such as SMU Ellipsis and SSU Project Naksu 2.0, has honed my leadership and teamwork abilities as I managed teams and organized welfare drives for hundreds of students. Additionally, having a role as a Public Relations Director helped me better communicate with stakeholders. I am eager to contribute to the growth and success of a dynamic organisation where I can make a meaningful impact.
-
