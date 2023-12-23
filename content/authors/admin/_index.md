@@ -58,7 +58,10 @@ schproject:
   date_start: "2023-08-01"
   institution: Geographic Information Systems for Urban Planning
   summary: |
-    
+    - Worked in a pair to create a GIS-based Accessibility Analysis and Mapping of Emergency Evacuation Centres and Medical Services in Derna City, Libya, using QGIS platform
+    - In charge of designing and maintaining our website, developed using Quarto in R Studio. Implemented updates and ensured seamless dissemination through the Netlify web server.
+    - Partnered up to create accessibility maps to analyse residential areas that are out of reach from evacuation centres
+    - Identified potential sites that can be used as an evacuation centre to increase the residential outreach
     
     
     
