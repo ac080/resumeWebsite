@@ -16,6 +16,8 @@ awards:
   title: Python Programming and Data Visualisation
   url: https://cert.heicodersacademy.com/nLqO9COgDBnSzUpZ
 
+
+    
 education:
 - area: BSc Information Systems
 #  button:
@@ -49,6 +51,17 @@ education:
     
     H2 Mathematics, H2 Biology, H2 Chemistry, H1 Economics, H1 General Paper, H1 Project Work, H1 Chinese
 
+
+schproject:
+- area: GeoMusketeers
+  date_end: "2023-11-14"
+  date_start: "2023-08-01"
+  institution: Geographic Information Systems for Urban Planning
+  summary: |
+    
+    
+    
+    
 #first_name: Anthea Chua
 #languages:
 #- name: English
@@ -59,6 +72,18 @@ education:
 #  percent: 25
 #last_name: Chien
 #name_pronunciation: Anthea Chua
+
+volunteer:
+- company_name: Training Schedule Coordinator
+  date_end: "2023-10-31"
+  date_start: "2023-01-01"
+  position: SSU Project Naksu 2.0
+  summary: |-
+    - The SSU Project Naksu 2.0 won an award under the Top Performing Group Volunteers category<br>
+    
+    <br>The motive of this community service project was to coach delinquent youths about the art of Muay Thai, imparting the skills of being patient and controlling one's emotions and strength. This project also aimed to help troubled youths to learn how to voice out their emotions and help them make friends.<br>
+    I worked in a team of 4 to plan out the weekly training schedule and lessons by incorporating life values for a class of 15 beneficiaries.
+
 
 profiles:
 - icon: at-symbol
