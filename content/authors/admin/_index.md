@@ -58,11 +58,14 @@ schproject:
   date_start: "2023-08-01"
   institution: Geographic Information Systems for Urban Planning
   summary: |
-    - Worked in a pair to create a GIS-based Accessibility Analysis and Mapping of Emergency Evacuation Centres and Medical Services in Derna City, Libya, using QGIS platform
-    - In charge of designing and maintaining our website, developed using Quarto in R Studio. Implemented updates and ensured seamless dissemination through the Netlify web server.
-    - Partnered up to create accessibility maps to analyse residential areas that are out of reach from evacuation centres
-    - Identified potential sites that can be used as an evacuation centre to increase the residential outreach
+    In this module, I gained proficiency in creating, integrating, and managing geospatial data, enabling the development of enterprise-level geospatial database management systems. Through individual assignments and project work, I acquired skills in utilizing GIS analysis functions to visualize and analyze data in the urban sector. My project experience involved employing advanced analytical methods within GIS to model smart city processes. Additionally, I developed the ability to design and implement state-of-the-art GIS-based Planning Support Systems for effective smart city management.
     
+    Project Work Theme: GIS-based Accessibility Analysis and Mapping of Emergency Evacuation Centres and Medical Services.
+    - Worked in a pair and identified prospective sites suitable for use as evacuation centers, expanding residential outreach through the utilisation of the QGIS platform
+    - Create accessibility maps to analyse residential areas that may be inaccessible to existing evacuation centers
+    - In charge of designing and maintaining our website, crafted using Quarto in R Studio. Implemented updates and ensured seamless dissemination through the Netlify web server.
+    
+    Link to project: https://geomusketeers.netlify.app/
     
     
 #first_name: Anthea Chua
