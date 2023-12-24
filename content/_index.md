@@ -53,6 +53,10 @@ sections:
 #  content:
 #    title: Languages
 #    username: admin
-title: 
+title: Personal Website Of Anthea Chua
+keywords:
+- Resume
+- Anthea
+- Chua
 type: landing
 ---
