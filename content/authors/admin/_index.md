@@ -99,7 +99,7 @@ profiles:
   url: https://github.com/ac080
 - icon: linkedin
   url: https://www.linkedin.com/in/anthea-chua-xy
-role: Sophomore at SMU | Data Analyst Engineer
+role: Sophomore at SMU
 title: Anthea Chua
 
 # place for SKILLS code
