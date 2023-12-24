@@ -22,7 +22,7 @@ minify:
       keepComments: true
 sitemap:
   changefreq: weekly
-  filename: "sitemap.xml"
+  filename: "/sitemap.xml"
   priority: 0.5
 module:
   hugoVersion:
