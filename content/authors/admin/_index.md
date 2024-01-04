@@ -67,6 +67,19 @@ schproject:
     
     Link to project: https://geomusketeers.netlify.app/
     
+- area: HandsUP
+  date_end: "2023-11-14"
+  date_start: "2023-08-01"
+  institution: Interaction Design & Prototyping
+  summary: |
+    In this module, I learnt about the iterative process of designing an app to meet user's needs. We conducted surveys to determine users needs, and created low and high fidelity prototypes. We performed A/B testing to optimise user's experience when navigating the application. Through hands-on experience in designing an entertainment event discovery application, I was able to gain a better understanding of UI/UX principles. This project honed my ability to create user-centric designs, ensuring a seamless and enjoyable experience for the target audience.
+    
+    - Worked in a group of 5 to design an application that aims to address the challenge of finding entertainment events in Singapore by streamlining event discovery across multiple platforms. The application aimes to facilitate connections among young adults with similar interests, overcoming scheduling conflicts, and simplifying the process of attending events together
+    - For the low fidelity prototype, my group used the paper wireframing method to outline our application
+    - For the high fidelity prototype, my group utilised Figma to design our application, showcasing a comprehensive understanding of design tools and methodologies.
+    
+
+    
     
 #first_name: Anthea Chua
 #languages:
